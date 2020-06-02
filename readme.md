@@ -14,3 +14,6 @@ POST     /api/v1/products
 PUT      /api/v1/products/:id
 DELETE   /api/v1/products/:id
 ```
+
+## License
+MIT © 2020 Aniket Kudale
